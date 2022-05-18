@@ -188,6 +188,7 @@ private:
         }
     }
 
+
     void RenderFPS()
     {
         char text[32];
